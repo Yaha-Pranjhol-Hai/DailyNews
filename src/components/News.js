@@ -7,7 +7,7 @@ export class News extends Component {
   static defaultProps = {
     country: 'in',
     pageSize: 9,
-    category:'geeneral',
+    category:'general',
   }
 
   static propTypes = {
@@ -54,7 +54,7 @@ export class News extends Component {
     console.log("Next");
     
     if( !(this.state.page + 1 > Math.ceil(this.state.totalResults/this.props.pageSize))){
-    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.counntry}&category=${this.props.category}&apiKey=85668c867722447cb903b54c63c942f2&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
+    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=85668c867722447cb903b54c63c942f2&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
     this.setState({loading: true});
     let data = await fetch(url);
     let parsedData = await data.json()
