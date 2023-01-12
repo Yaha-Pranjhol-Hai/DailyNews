@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Diana Olick",
+            "title": "Mortgage refinance demand surges, as homeowners take advantage of lower interest rates - CNBC",
+            "description": "Mortgage rates fell last week, causing a rush on refinancing.",
+            "url": "https://www.cnbc.com/2023/01/11/mortgage-refinance-demand-surges-as-homeowners-take-advantage-of-lower-interest-rates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/102075466-IMG_3522_copy.jpg?v=1673438401&w=1920&h=1080",
+            "publishedAt": "2023-01-11T12:00:01Z",
+            "content": "After rising at the end of the year, mortgage rates dropped sharply last week. That drove demand from current homeowners hoping to save on their monthly payments, but it did little to excite potentia… [+1700 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "All Flights Across US Grounded Due To Technical Glitch | Flight System IN US Crashes | USA News Live - CNN-News18",
+            "description": "All Flights Across US Grounded Due To Technical Glitch | Flight System IN US Crashes | USA News LiveAll flights in the United States (US) have been grounded ...",
+            "url": "https://www.youtube.com/watch?v=KbkPso0JKCk",
+            "urlToImage": "https://i.ytimg.com/vi/KbkPso0JKCk/maxresdefault_live.jpg",
+            "publishedAt": "2023-01-11T11:40:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Rebecca Davison",
+            "title": "Khloe will be by ex Tristan Thompson's side at his mother's funeral - Daily Mail",
+            "description": "Khloe Kardashian has vowed to be by her ex, Tristan Thompson's side at the upcoming funeral of his mother Andrea.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-11622831/Khloe-ex-Tristan-Thompsons-mothers-funeral.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/01/11/10/66449773-0-image-a-45_1673434352497.jpg",
+            "publishedAt": "2023-01-11T10:39:27Z",
+            "content": "Khloe Kardashian has vowed to be by her ex, Tristan Thompson's side at the upcoming funeral of his mother Andrea. \r\nShe will be joined by her sister Kim and her mother Kris Jenner as the family join … [+5800 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "The West’s oil war against Russia is starting to take its toll — sparking calls for tougher measures - CNBC",
+            "description": "Russia's revenue from fossil fuel exports collapsed in December, according to a new report, hampering Moscow's ability to finance the war in Ukraine.",
+            "url": "https://www.cnbc.com/2023/01/11/ukraine-war-russias-fossil-fuel-earnings-fall-in-december.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107177026-1673430514707-gettyimages-1246034023-AFP_336L2PX.jpeg?v=1673430914&w=1920&h=1080",
+            "publishedAt": "2023-01-11T09:55:14Z",
+            "content": "European countries have been scrambling to find alternative sources of oil and gas following Russia's full-scale invasion of Ukraine in Feb. 2021.\r\nRussia's revenue from fossil fuel exports collapsed… [+5035 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Man wounds six people at Paris Gare du Nord station - Reuters",
+            "description": "A man attacked and wounded six people at the Gare du Nord train station in Paris on Wednesday morning, leaving one with serious injuries, before being shot by off-duty police officers, authorities said.",
+            "url": "https://www.reuters.com/world/europe/several-people-hurt-attack-paris-gare-du-nord-station-attack-minister-2023-01-11/",
+            "urlToImage": "https://www.reuters.com/resizer/j8jjjwGniwnho0uRGec2NUy4smI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2NGOSOYKVVON3D45BS6OCDDBDY.jpg",
+            "publishedAt": "2023-01-11T09:52:00Z",
+            "content": "PARIS, Jan 11 (Reuters) - A man attacked and wounded six people at the Gare du Nord train station in Paris on Wednesday morning, leaving one with serious injuries, before being shot by off-duty polic… [+1470 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "Russia to launch Soyuz rocket to bring back cosmonauts from ISS after leak - Yahoo! Voices",
+            "description": "MOSCOW (Reuters) -Russia said on Wednesday it would launch another Soyuz rocket on Feb. 20 to bring home two cosmonauts and a U.S. astronaut from the...",
+            "url": "https://news.yahoo.com/russia-launch-backup-soyuz-spacecraft-090317913.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/bd8328ab8cbe582c2058852ca516e0da",
+            "publishedAt": "2023-01-11T09:03:17Z",
+            "content": "MOSCOW (Reuters) -Russia said on Wednesday it would launch another Soyuz rocket on Feb. 20 to bring home two cosmonauts and a U.S. astronaut from the International Space Station after their original … [+1292 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Oliver O'Connell",
+            "title": "California storms – live: Flash flood warning in San Francisco after Montecito and Santa Barbara evacuations - The Independent",
+            "description": "Succession of storms continue to batter southern and central California",
+            "url": "https://www.independent.co.uk/climate-change/santa-barbara-flooding-storm-tracker-california-latest-b2259950.html",
+            "urlToImage": "https://static.independent.co.uk/2023/01/10/14/AFP_336R6XL.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-01-11T08:15:40Z",
+            "content": "Storm 'more intense' and stayed 'much longer', says fire department as more evacuations are ordered\r\nMore evacuations have been ordered in counties as the storm warning remains in Northern California… [+1148 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nouran Salahieh",
+            "title": "California is recovering from deadly storms that brought rainfall totals 400% to 600% above average -- and more rain is on the way - CNN",
+            "description": "Response crews are busy clearing flooded neighborhoods and crumbled roadways after a powerful storm walloped California with heavy downpours and strong winds, forcing thousands of evacuations -- and another round of rain is on the way.",
+            "url": "https://www.cnn.com/2023/01/11/weather/california-flooding-atmospheric-river-wednesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230110164643-04-california-weather-0110-merced.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-11T08:03:00Z",
+            "content": "Response crews are busy clearing flooded neighborhoods and crumbled roadways after a powerful storm walloped California with heavy downpours and strong winds, forcing thousands of evacuations and ano… [+8078 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Romanian court upholds detention of influencer Andrew Tate - Al Jazeera English",
+            "description": "The divisive social media personality was arrested in Romania on charges of organised crime, human trafficking and rape.",
+            "url": "https://www.aljazeera.com/news/2023/1/11/romanian-court-upholds-detention-of-influencer-andrew-tate",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/01/RTSEY72H.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-01-11T07:41:17Z",
+            "content": "A Romanian court has upheld the 30-day custody of divisive social media personality and self-described misogynist Andrew Tate on charges of organised crime, human trafficking and rape, an official sa… [+3767 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Winning numbers drawn for Mega Millions $1.1 billion jackpot - FOX 11 Los Angeles",
+            "description": "Feeling lucky? Here are the winning numbers for Tuesday's $1.1 billion jackpot.Subscribe to FOX 11 Los Angeles: https://www.youtube.com/channel/UCHfF8wFnipMe...",
+            "url": "https://www.youtube.com/watch?v=RMLLAqH8skw",
+            "urlToImage": "https://i.ytimg.com/vi/RMLLAqH8skw/hqdefault.jpg",
+            "publishedAt": "2023-01-11T06:17:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Rachel Pannett, Frances Vinall",
+            "title": "Cardinal George Pell, convicted then acquitted of child sex abuse, dies at 81 - The Washington Post",
+            "description": "The sexual assault conviction of the Australian cleric, who was a top adviser to Pope Francis, was overturned after he spent more than a year in prison.",
+            "url": "https://www.washingtonpost.com/obituaries/2023/01/10/cardinal-george-pell-dead-child-sexual-abuse/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IW5NLMAOV7RRUOAZ5WZSQW2HHI.jpg&w=1440",
+            "publishedAt": "2023-01-11T05:52:00Z",
+            "content": "Cardinal George Pell, a conservative theologian who served as the Vatican finance chief for Pope Francis and who was acquitted after becoming the most senior Catholic cleric to be convicted of sexual… [+6334 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GMA"
+            },
+            "author": "Angeline Jane Bernabe, Carson Blackwelder, Hayley FitzPatrick",
+            "title": "Golden Globes 2023 recap: Powerful speeches, big wins and more - GMA",
+            "description": "",
+            "url": "https://www.goodmorningamerica.com/culture/story/golden-globes-2023-recap-powerful-speeches-big-wins-96354016",
+            "urlToImage": "https://s.abcnews.com/images/US/quinta-brunson-abbott-elementary-gty-jt-230110_1673412607012_hpMain_16x9_608.jpg",
+            "publishedAt": "2023-01-11T05:16:12Z",
+            "content": "The 80th Golden Globes returned to television Tuesday night, one year after the awards show was held as a private event due to allegations of racism within the Hollywood Foreign Press Association.\r\nM… [+9814 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Daniella Genovese",
+            "title": "Best places to work in 2023, according to Glassdoor: Tech still king of the list - Fox Business",
+            "description": "Glassdoor's Best Places to Work 2023 list features employers across multiple industries, including technology, finance and real estate.",
+            "url": "https://www.foxbusiness.com/lifestyle/best-places-work-2023-glassdoor-tech-still-king-of-the-list",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/tech-office-building-job.jpg?ve=1&tl=1",
+            "publishedAt": "2023-01-11T05:16:09Z",
+            "content": "Gainsight, a venture-backed tech firm that helps companies drive durable growth, has landed the top spot on Glassdoor's Best Places to Work in 2023 list. \r\nEmployees commended the company for its val… [+2164 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Prince Harry's memoir 'Spare' hits shelves - NBC News",
+            "description": "Prince Harry’s long-awaited memoir “Spare” finally hit shelves after weeks of leaked stories and speculation. NBC’s Keir Simmons has the details on even more...",
+            "url": "https://www.youtube.com/watch?v=MlWbIKYtWfs",
+            "urlToImage": "https://i.ytimg.com/vi/MlWbIKYtWfs/maxresdefault.jpg",
+            "publishedAt": "2023-01-11T04:30:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Monica Pitrelli, Evelyn Cheng",
+            "title": "South Korea shares eye-opening Covid statistics to defend its new rules for travelers from China - CNBC",
+            "description": "South Korea hit back at claims its Covid rules for Chinese travelers are \"discriminatory,\" saying more than half of its imported cases are coming from China.",
+            "url": "https://www.cnbc.com/2023/01/11/south-korea-covid-rules-not-discriminatory-to-chinese-travelers.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107173562-1672807648611-gettyimages-1245956336-AFP_336F2QU.jpeg?v=1673411705&w=1920&h=1080",
+            "publishedAt": "2023-01-11T03:55:00Z",
+            "content": "South Korea on Tuesday hit back at claims that its Covid rules for Chinese travelers are \"discriminatory,\" saying more than half of its imported cases are coming from China.\r\nIn a response to CNBC, S… [+4768 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Annie Grayer, Zachary Cohen, Sara Murray",
+            "title": "Biden's classified documents issue adds to House Republicans' growing list of investigations - CNN",
+            "description": "As House Republicans officially take over Congress and clamor to investigate the Biden administration, a new line of attack fell squarely into their laps: classified documents recovered from one of President Joe Biden's private offices when he served as vice …",
+            "url": "https://www.cnn.com/2023/01/10/politics/gop-investigations-new-congress/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221103232520-01-jim-jordan-james-comer-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-11T03:54:00Z",
+            "content": "As House Republicans officially take over Congress and clamor to investigate the Biden administration, a new line of attack fell squarely into their laps: classified documents recovered from one of P… [+13000 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rivals.com"
+            },
+            "author": null,
+            "title": "Maize&BlueReview - Michigan finishes No. 3 in final AP Poll of 2022 season - Rivals.com - Michigan",
+            "description": "Michigan",
+            "url": "https://michigan.rivals.com/news/michigan-finishes-no-3-in-final-ap-poll-of-2022-season",
+            "urlToImage": "https://images.rivals.com/image/upload/f_auto,q_auto,t_headline_primary/ukherr5bleuqyfnml1fu",
+            "publishedAt": "2023-01-11T03:06:41Z",
+            "content": "Michigan's loss to TCU in the College Football Playoff semifinals is still stinging for the Wolverines, it also impacted the final rankings, too.\r\nThe Wolverines finished the season No. 3 in the fina… [+1229 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Uwa Ede-Osifo and Corky Siemaszko",
+            "title": "Five officers fired as sex scandal roils Tennessee police department - Yahoo News",
+            "description": "A Tennessee police department was in turmoil Tuesday following allegations that at least five of its male officers had sex with a female officer both on and",
+            "url": "https://news.yahoo.com/five-officers-fired-sex-scandal-015358805.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vxTcazF.lyvqQA2wSCh1_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/nbc_news_122/00eaec77db6a040f2f0eb9505aeb52c0",
+            "publishedAt": "2023-01-11T01:53:00Z",
+            "content": "A Tennessee police department was in turmoil Tuesday following allegations that at least five of its male officers had sex with a female officer both on and off the job.\r\nSo far, five officers have b… [+4966 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Apple to Begin Making In-House Screens in 2024 in Shift Away From Samsung - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=18e1f939-917d-11ed-871b-427a65584b59&url=L25ld3MvYXJ0aWNsZXMvMjAyMy0wMS0xMS9hcHBsZS10by1iZWdpbi1tYWtpbmctaW4taG91c2Utc2NyZWVucy1pbi0yMDI0LWluLXNoaWZ0LWF3YXktZnJvbS1zYW1zdW5n",
+            "urlToImage": null,
+            "publishedAt": "2023-01-11T00:33:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Second potentially habitable Earth-size planet found orbiting nearby star - CNN",
+            "description": "A second Earth-size exoplanet has been spotted orbiting the small star TOI 700, located about 100 light-years away. Astronomers used NASA's planet-hunting TESS mission to spot the fourth world in the planetary system.",
+            "url": "https://www.cnn.com/2023/01/10/world/nasa-tess-earth-size-exoplanet-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230110102813-nasa-toi-700-e-planet.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-10T23:58:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA NASA mission has spottedan Earth-size exoplanet orbi… [+3672 chars]"
+        }
+    ]
+}
