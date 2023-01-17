@@ -6,7 +6,15 @@ export class NewsItem extends Component {
     return (
       <div className="my-3">
         <div className="card">
-        <span className="position-absolute top-0 translate-middle badge rounded-pill bg-danger" style={{left: '89%', zIndex: '1'}}> {source} </span>
+        <div style={{
+                        display: 'flex',
+                        justifyContent: 'flex-end',
+                        position: 'absolute',
+                        right: '0'
+                    }
+                    }>
+        <span className="badge rounded-pill bg-danger"> {source} </span>
+        </div>
           <img src={!imageUrl?"https://c.ndtvimg.com/2023-01/kffb99jo_ganga-river-cruise-worlds-longest-river-cruise-facebook_625x300_11_January_23.jpg":imageUrl} className="card-img-top" alt="..." />
           <div className="card-body">
           <h5 className="card-title">{title}...</h5>
