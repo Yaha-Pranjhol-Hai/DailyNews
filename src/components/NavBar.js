@@ -48,11 +48,6 @@ const NavBar = () => {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/sports">
-                  Sports
-                </Link>
-              </li>
-              <li className="nav-item">
                 <Link className="nav-link" to="/technology">
                   Technology
                 </Link>

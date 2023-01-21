@@ -32,7 +32,6 @@ const App = ()=> {
         <Route exact path="/entertainment"><News key="entertainment" setProgress={setProgress} apiKey={apiKey} pageSize={pageSize} country="in" category="entertainment"/></Route> 
         <Route exact path="/health"><News key="health" setProgress={setProgress} apiKey={apiKey} pageSize={pageSize} country="in" category="health"/></Route> 
         <Route exact path="/science"><News key="science" setProgress={setProgress} apiKey={apiKey} pageSize={pageSize} country="in" category="science"/></Route> 
-        <Route exact path="/sports"><News key="sports" setProgress={setProgress} apiKey={apiKey} pageSize={pageSize} country="in" category="sports"/></Route> 
         <Route exact path="/technology"><News key="technology" setProgress={setProgress} apiKey={apiKey} pageSize={pageSize} country="in" category="technology"/></Route> 
       </Switch>
       </Router>
