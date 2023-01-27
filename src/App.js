@@ -26,7 +26,7 @@ const App = ()=> {
         progress={progress} 
       />
       <Switch>
-        <Route exact path="/NewsMonkey"><News key="general" setProgress={setProgress} apiKey={apiKey} pageSize={pageSize} country="in" category="general"/></Route> 
+        <Route exact path="/"><News key="general" setProgress={setProgress} apiKey={apiKey} pageSize={pageSize} country="in" category="general"/></Route> 
         <Route exact path="/general"><News key="general" setProgress={setProgress} apiKey={apiKey} pageSize={pageSize} country="in" category="general"/></Route> 
         <Route exact path="/business"><News key="business" setProgress={setProgress} apiKey={apiKey} pageSize={pageSize} country="in" category="business"/></Route> 
         <Route exact path="/entertainment"><News key="entertainment" setProgress={setProgress} apiKey={apiKey} pageSize={pageSize} country="in" category="entertainment"/></Route> 
