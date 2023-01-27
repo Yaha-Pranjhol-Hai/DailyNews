@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Yahan-Pranjhol-hai/NewsMonkey/static/css/main.abd64e84.css",
+    "main.js": "/Yahan-Pranjhol-hai/NewsMonkey/static/js/main.f3f7298d.js",
+    "static/js/787.5fbe6313.chunk.js": "/Yahan-Pranjhol-hai/NewsMonkey/static/js/787.5fbe6313.chunk.js",
+    "static/media/loading.gif": "/Yahan-Pranjhol-hai/NewsMonkey/static/media/loading.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/Yahan-Pranjhol-hai/NewsMonkey/index.html",
+    "main.abd64e84.css.map": "/Yahan-Pranjhol-hai/NewsMonkey/static/css/main.abd64e84.css.map",
+    "main.f3f7298d.js.map": "/Yahan-Pranjhol-hai/NewsMonkey/static/js/main.f3f7298d.js.map",
+    "787.5fbe6313.chunk.js.map": "/Yahan-Pranjhol-hai/NewsMonkey/static/js/787.5fbe6313.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.f3f7298d.js"
+  ]
+}
